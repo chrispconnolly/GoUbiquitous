@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SunshineWear</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="high_temp">High: -\u00b0</string>
+    <string name="low_temp">Low: -\u00b0</string>
+</resources>

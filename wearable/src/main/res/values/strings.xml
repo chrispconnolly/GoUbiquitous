@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wearable</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="high_temp">High:</string>
+    <string name="low_temp">Low:</string>
+</resources>
